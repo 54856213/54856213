@@ -1,4 +1,4 @@
-![banner][(https://user-images.githubusercontent.com/70807684/155843098-4a8190e2-daf9-4811-8e6a-f698ff7039f0.gif](https://images.steamusercontent.com/ugc/639867885558956945/9F6F5A9602E91B20C44B98E35DAC7405885F85E8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
+![banner](https://user-images.githubusercontent.com/70807684/155843098-4a8190e2-daf9-4811-8e6a-f698ff7039f0.gif](https://images.steamusercontent.com/ugc/639867885558956945/9F6F5A9602E91B20C44B98E35DAC7405885F85E8/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false)
 
   <h3 align= "center"> Hello World 👋🏼 It's Avid Coder 💓 </h3>
 
