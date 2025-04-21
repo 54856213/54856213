@@ -28,8 +28,8 @@
 
 Languages I know:
 
-<img align="right" height="100" width="100" src="https://github.com/user-attachments/assets/4b52d52d-4765-4ea8-ae29-e391e6ba1760"/>
-<img align="right" height="100" width="100" src=https://github.com/user-attachments/assets/4cc574d9-0ebe-48c0-b2a6-efac493af63e/>
+<img  height="100" width="100" src="https://github.com/user-attachments/assets/4b52d52d-4765-4ea8-ae29-e391e6ba1760"/>
+<img  height="100" width="100" src=https://github.com/user-attachments/assets/4cc574d9-0ebe-48c0-b2a6-efac493af63e/>
 
 
 ---
