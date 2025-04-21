@@ -32,8 +32,8 @@ Languages I know:
 <img  height="100" width="100" src="https://github.com/user-attachments/assets/45028427-32ab-4feb-8c86-2898dd79831d"/>
 <img  height="100" width="100" src="https://github.com/user-attachments/assets/eb7531cf-ef02-41fa-a38a-9480a3dba2d1"/>
 <img  height="100" width="100" src="https://github.com/user-attachments/assets/95f82c90-4e76-4686-b58a-82651a8aeb44"/>
-
-
+<img  height="100" width="100" src="https://github.com/user-attachments/assets/0a104ed9-8526-4a0f-8d6b-e034b4d97e93"/>
+<img  height="100" width="100" src="https://github.com/user-attachments/assets/870c5482-0286-43eb-81fe-1d8caed17792"/>
 
 
 ---
