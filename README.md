@@ -9,37 +9,13 @@
 
 <img align="right" height="250" width="400" alt="GIF" src="https://github.com/user-attachments/assets/91bb5ce9-317a-4451-83a7-efd336709a39"/>
 
-- 🔭 I work at Magnesite**
-- 🌱 I'm studying at the institute**
-- 👯 I do sports**
+- 🔭 I work at Magnesite
+- 🌱 I'm studying at the institute
+- 👯 I do sports
 - 💬 𝙰𝚜𝚔 𝙼𝚎 𝙰𝚋𝚘𝚞𝚝 𝙰𝚗𝚢𝚝𝚑𝚒𝚗𝚐 [here](https://github.com/54856213) ! 𝙸 𝚊𝚖 𝚑𝚊𝚙𝚙𝚢 𝚝𝚘 𝚑𝚎𝚕𝚙.
 
 <br/>
 <br/>
-
-
-My Github stats:
-
-<table>
-    <tr>
-        <td>
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=AvidCoder101&theme=radical"/>
-        </td>
-        <td>
-            <img src="https://github-profile-trophy.vercel.app/?username=AvidCoder101"/>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api?username=avidcoder101&count_private=true&show_icons=true&theme=radical"/>
-        </td>
-        <td>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avidcoder101&langs_count=10&layout=compact&hide=php,batchfile,gherkin,freemarker,xslt,tsql,ruby"/>
-        </td>
-    </tr>
-</table>
-
-----
 
 Organisations I am part of:
 
