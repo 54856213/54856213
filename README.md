@@ -46,7 +46,8 @@ Languages I know:
 
 Quote of the Day:
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)](https://github.com/piyushsuthar/github-readme-quotes)
+Если вы дадите человеку программу, то займете его на один день. Если вы научите человека программировать, то займете его на всю жизнь.
+Waseem Latif
 <h3 style= "text-align: center;"> 
 
 ---
