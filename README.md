@@ -32,8 +32,7 @@ Languages I know:
 <img  height="100" width="100" src="https://github.com/user-attachments/assets/45028427-32ab-4feb-8c86-2898dd79831d"/>
 <img  height="100" width="100" src="https://github.com/user-attachments/assets/eb7531cf-ef02-41fa-a38a-9480a3dba2d1"/>
 <img  height="100" width="100" src="https://github.com/user-attachments/assets/317b7205-b892-49b0-8251-4e92416ceb49"/>
-<img  height="100" width="100" src="https://github.com/user-attachments/assets/c2fc2fc9-f838-457e-b3cb-f903b36cd4c0"/>
-<img  height="100" width="100" src="https://github.com/user-attachments/assets/45028427-32ab-4feb-8c86-2898dd79831d"/>
+
 
 
 ---
