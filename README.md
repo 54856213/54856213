@@ -1,5 +1,6 @@
 ![banner]<img align="right" height="250" width="400" alt="GIF" src="https://camo.githubusercontent.com/70807684/155843098-4a8190e2-daf9-4811-8e6a-f698ff7039f0"/>
 <h3 align= "center"> Hello World 👋🏼 It's Avid Coder 💓 </h3>
+![1445040877_tumblr_mvvl9oD7641s51zszo1_1280](https://github.com/user-attachments/assets/91bb5ce9-317a-4451-83a7-efd336709a39)
 
 ----
  Here's some fun facts about me:
