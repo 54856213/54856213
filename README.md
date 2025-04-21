@@ -9,6 +9,8 @@
 
 <img align="right" height="250" width="400" alt="GIF" src="https://github.com/user-attachments/assets/91bb5ce9-317a-4451-83a7-efd336709a39"/>
 
+
+
 - 🔭 I work at Magnesite
 - 🌱 I'm studying at the institute
 - 👯 I do sports
