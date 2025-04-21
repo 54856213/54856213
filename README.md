@@ -34,14 +34,7 @@ Languages I know:
 
 ---
 
-Some of my repositories:
 
-- **[My Profile Repo - AvidCoder101/AvidCoder101](https://github.com/AvidCoder101/AvidCoder101)**
-- **[My BMI Calculator Repo - AvidCoder101/BMICalculator](https://github.com/AvidCoder101/BMICalculator)**
-- **[My To-do List Repo - AvidCoder101/To-do-list](https://github.com/AvidCoder101/To-do-list)**
-- **[My Harry Potter Quiz Repo - AvidCoder101/Harry-Potter-Quiz](https://github.com/AvidCoder101/Harry-Potter-Quiz)**
-- **[My Drawing Repo - AvidCoder101/Drawing-App](https://github.com/AvidCoder101/Drawing-App)**
-- **[My Clock Repo - AvidCoder101/Clock-App](https://github.com/AvidCoder101/Clock-App)**
 
 ---
 
