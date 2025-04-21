@@ -1,7 +1,7 @@
 <h1 align="center">
-  <img src="GIF/Earth.gif" width="24px"/>
+
   Hello World 👋🏼 It's Yulia 💓
-  <img src="GIF/Hi.gif" width="40px" />
+
 </h1>
 
 <br/>
