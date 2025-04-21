@@ -31,12 +31,6 @@ Languages I know:
 <img align="right" height="100" width="100" src="https://github.com/user-attachments/assets/4b52d52d-4765-4ea8-ae29-e391e6ba1760"/>
 <img align="right" height="100" width="100" src=https://github.com/user-attachments/assets/4cc574d9-0ebe-48c0-b2a6-efac493af63e/>
 
-![](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
 
