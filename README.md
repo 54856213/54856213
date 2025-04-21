@@ -3,7 +3,6 @@
 <h3 align= "center"> Hello World 👋🏼 It's Avid Coder 💓 </h3>
 
 ----
-
  Here's some fun facts about me:
 
 - I hope to pursue a career in web development one day (but for now, I stick to open-source contributions 😀)
