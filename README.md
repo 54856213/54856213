@@ -1,12 +1,6 @@
 <h1 align="center">
-  <img src="GIF/Earth.gif" width="24px"/>
   Hello World 👋🏼 It's Avid Coder 💓
-  <img src="GIF/Hi.gif" width="40px" />
 </h1>
-
-<br/>
-<br/>
-
 <img align="right" height="250" width="400" alt="GIF" src=https://github.com/user-attachments/assets/91bb5ce9-317a-4451-83a7-efd336709a39/>
   <h3 align= "center">
 
