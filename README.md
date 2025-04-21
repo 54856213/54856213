@@ -19,9 +19,6 @@
 <br/>
 
 
-
-
-
 ---
 
 Languages I know:
