@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/1445040877_tumblr_mvvl9oD7641s51zszo1_1280.gif)
+![banner](https://github.com/1445040877_tumblr_mvvl9oD7641s51zszo1_1280.gif)
 
 <h3 align= "center"> Hello World 👋🏼 It's Avid Coder 💓 </h3>
 
